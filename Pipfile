@@ -12,6 +12,7 @@ pandas = "*"
 prophet = "*"
 chart-studio = "*"
 numpy = "*"
+qrcode="*"
 
 [requires]
 python_version = "3.0"
